@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on python-based Machine Learning projects
+- 📫 How to reach me: https://www.linkedin.com/in/sina-scholz-kiel/
 
 <!--
 **sina2025/sina2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
