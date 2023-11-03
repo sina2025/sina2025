@@ -7,7 +7,7 @@
 - :microphone: Speaker 
 - 📫 How to reach me: https://www.linkedin.com/in/sina-scholz-kiel/
 
-<img src="https://github.com/sina2025/sina2025/blob/main/sina_und_pepper_1000134670.jpg)" width="100">
+![alt text](https://github.com/sina2025/sina2025/blob/main/sina_und_pepper_1000134670.jpg?raw=true "Pepper")
 
 
 <!--
