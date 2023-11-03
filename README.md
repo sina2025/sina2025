@@ -7,6 +7,11 @@
 - :microphone: Speaker 
 - 📫 How to reach me: https://www.linkedin.com/in/sina-scholz-kiel/
 
+
+![alt text](https://github.com/sina2025/sina2025/blob/main/sina_und_pepper_1000134670.jpg?raw=true)
+
+
+
 <!--
 **sina2025/sina2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
