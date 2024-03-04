@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on python-based Machine Learning projects
-- :robot: Human Robot Interactions (Mensch-Roboter-Interaktionen, MRI, Pepper Robot, Humanoide Roboter)
+- :robot: Human-Robot Interactions (Mensch-Roboter-Interaktionen, MRI, Pepper Robot, Humanoide Roboter)
 - :woman_scientist: Research area of Human-Aware AI
 - :compass: My Passion is about: ML, Robotics, XAI, MLOps, EU AI Act, AI Governance, Health Care / Life Science, Digital Transformation, SAR (Search and Rescue - Rettungsdienst / Seenotretter / DGzRS)
 - :microphone: Speaker 
